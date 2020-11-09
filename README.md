@@ -34,7 +34,7 @@
 ## Apps
 
 
-Feel free to submit PRs and Issues to any public repsitories.
+Feel free to submit PRs and Issues to any public repsitory.
 
 You also can find more information about me below
 
