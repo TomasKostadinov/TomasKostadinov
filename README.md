@@ -31,7 +31,7 @@
 </table>
    
 
-## Apps
+## Contact
 
 
 Feel free to submit PRs and Issues to any public repsitory.
